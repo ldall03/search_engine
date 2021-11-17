@@ -26,3 +26,5 @@ This is a demo, performance and efficiency will improve with future updates
 This demo is not extensively testes, bugs are possible although I have not found any
 
 This has been compiled for windows 10, it is not guaranted to work on other platforms
+
+If any bugs are encountered, create an issue to report the bug on this github page, this make it easier to track bugs...
