@@ -13,6 +13,8 @@ Qt5Gui.dll
 Qt5Widgets.dll
 search_engine.exe
 
+The necessary files should all be in the download.
+
 Inside the resource folder are the files loaded by the app, do not rename those, leave them in the resources folder
 
 Inside 01_SDS the files must follow this naming convention: S_0001.pdf, S_0002.pdf, S_0003.pdf and onwards
