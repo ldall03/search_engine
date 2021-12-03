@@ -3,6 +3,8 @@ csv_format = 6
 Set objFSO = CreateObject("Scripting.FileSystemObject")
 
 src_file = objFSO.GetAbsolutePathName(Wscript.Arguments.Item(0))
+' dest_file = objFSO.GetAbsolutePathName(WScript.Arguments.Item(1))
+
 dest_file = Replace(Replace(src_file,".xlsx",".tmp.csv"),".xls",".tmp.csv")
 
 Dim oExcel
