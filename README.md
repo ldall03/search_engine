@@ -1,5 +1,5 @@
 # search_engine
-Ambatovy search engine - v1
+Ambatovy search engine - v1.1
 
 The file system for the program to work is as follows:
 
